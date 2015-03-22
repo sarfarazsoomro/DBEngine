@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <in>BigQ.cc</in>
+      <in>BigQ.h</in>
+      <in>Comparison.cc</in>
+      <in>Comparison.h</in>
+      <in>ComparisonEngine.cc</in>
+      <in>ComparisonEngine.h</in>
+      <in>DBFile.cc</in>
+      <in>DBFile.h</in>
+      <in>DBInstance.cc</in>
+      <in>DBInstance.h</in>
+      <in>Defs.h</in>
+      <in>DuplicateRemovalOp.cc</in>
+      <in>DuplicateRemovalOp.h</in>
+      <in>File.cc</in>
+      <in>File.h</in>
+      <in>Function.cc</in>
+      <in>Function.h</in>
+      <in>GroupByOp.cc</in>
+      <in>GroupByOp.h</in>
+      <in>InternalDBFile.cc</in>
+      <in>InternalDBFile.h</in>
+      <in>InternalDBFileHeap.cc</in>
+      <in>InternalDBFileHeap.h</in>
+      <in>InternalDBFileSorted.cc</in>
+      <in>InternalDBFileSorted.h</in>
+      <in>JoinOp.cc</in>
+      <in>JoinOp.h</in>
+      <in>ParseTree.h</in>
+      <in>Pipe.cc</in>
+      <in>Pipe.h</in>
+      <in>ProjectOp.cc</in>
+      <in>ProjectOp.h</in>
+      <in>QueryPlan.cc</in>
+      <in>QueryPlan.h</in>
+      <in>Record.cc</in>
+      <in>Record.h</in>
+      <in>RelOp.cc</in>
+      <in>RelOp.h</in>
+      <in>RelOpNode.cc</in>
+      <in>Schema.cc</in>
+      <in>Schema.h</in>
+      <in>SelectFileOp.cc</in>
+      <in>SelectFileOp.h</in>
+      <in>SelectPipeOp.cc</in>
+      <in>SelectPipeOp.h</in>
+      <in>Statistics.cc</in>
+      <in>Statistics.h</in>
+      <in>SumOp.cc</in>
+      <in>SumOp.h</in>
+      <in>TwoWayList.cc</in>
+      <in>TwoWayList.h</in>
+      <in>WriteOutOp.cc</in>
+      <in>WriteOutOp.h</in>
+      <in>lex.yy.c</in>
+      <in>lex.yyfunc.c</in>
+      <in>main.cc</in>
+      <in>test.cc</in>
+      <in>y.tab.c</in>
+      <in>y.tab.h</in>
+      <in>yyfunc.tab.c</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>test.out</executablePath>
+          <ccTool>
+            <standard>8</standard>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="BigQ.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="BigQ.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Comparison.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Comparison.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ComparisonEngine.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="ComparisonEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DBFile.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DBFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DBInstance.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DBInstance.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Defs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DuplicateRemovalOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DuplicateRemovalOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="File.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="File.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Function.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Function.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GroupByOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="GroupByOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="InternalDBFile.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="InternalDBFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="InternalDBFileHeap.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="InternalDBFileHeap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="InternalDBFileSorted.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="InternalDBFileSorted.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JoinOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="JoinOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParseTree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pipe.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Pipe.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProjectOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="ProjectOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="QueryPlan.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="QueryPlan.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Record.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Record.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RelOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="RelOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RelOpNode.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Schema.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Schema.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SelectFileOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="SelectFileOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SelectPipeOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="SelectPipeOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Statistics.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Statistics.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SumOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="SumOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TwoWayList.cc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TwoWayList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="WriteOutOp.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="WriteOutOp.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="lex.yy.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="lex.yyfunc.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="main.cc" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="test.cc" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="y.tab.c" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="y.tab.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="yyfunc.tab.c" ex="false" tool="1" flavor2="4">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
